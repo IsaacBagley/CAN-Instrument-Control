@@ -1,2 +1,2 @@
-# HyundaiCANSpoof
-A spoof of the Hyundai CAN codes to run the tachometer and speedometer on an instrument cluster.
+# CAN-Instrument-Control
+Utilizing CAN to run the speedometer and tachometer on a production car instrument cluster with a microcontroller.
